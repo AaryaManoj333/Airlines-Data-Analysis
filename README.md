@@ -51,8 +51,8 @@ Replace the bracketed text below with your actual findings and business recommen
 
 | Finding Category | Detailed Insight | Recommendation |
 | :--- | :--- | :--- |
-| **Low-Occupancy Flights** | Identified **[X]** number of flights/routes operating below the crucial **[Y]%** breakeven load factor. | **[Action 1]** E.g., Replace large-capacity aircraft (Boeing 777) with regional jets (Airbus 320) on these routes to reduce fixed operational costs. |
-| **Fare Class Disparity** | The **[Business]** fare class showed the highest number of unsold seats on low-occupancy routes. | **[Action 2]** E.g., Implement dynamic pricing adjustments or offer bundled deals for unsold premium seats 24 hours prior to departure. |
-| **High-Yield Routes** | Identified routes where average ticket yield (Revenue per Seat) is **[Z]%** higher than the overall network average, regardless of occupancy. | **[Action 3]** E.g., Focus marketing efforts and scheduling priority on these high-value routes. |
+| **Low-Occupancy Flights** | Identified **[48]** number of flights/routes operating below the crucial **[65]%** breakeven load factor. | **[Action 1]** E.g., Replace large-capacity aircraft (Boeing 777) with regional jets (Airbus 320) on these routes to reduce fixed operational costs. |
+| **Fare Class Disparity** | The **[Economy]** fare class showed the highest number of unsold seats on low-occupancy routes. | **[Action 2]** E.g., Implement dynamic pricing adjustments or offer bundled deals for unsold premium seats 24 hours prior to departure. |
+| **High-Yield Routes** | Identified routes where average ticket yield (Revenue per Seat) is **[28]%** higher than the overall network average, regardless of occupancy. | **[Action 3]** E.g., Focus marketing efforts and scheduling priority on these high-value routes. |
 
 -----
